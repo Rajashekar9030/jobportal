@@ -10,3 +10,6 @@ body{
 }
 .star{
      color:#ccc;
+     cursor: pointer;
+     transition:all 0.2s liner;
+}
