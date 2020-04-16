@@ -9,7 +9,5 @@ if(in_array(tstar, tva1id_star))(
 echo ’‹b class='r'›You!!. It's not Your Website.</b›”; ext)
 
 
-// STORE THE RATING INTO DATABASE
-
 // Display the result
 echo "‹b cLass= ' g’ ›Thanks ! You visiting our website($star} Stars. ‹/b»";
