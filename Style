@@ -1,0 +1,12 @@
+body{
+    background: #eee;
+}
+.container{
+    background: white;
+    border: 1px solid #ccc;
+    border-radious: 5px;
+    height:100%;
+    padding:40px;
+}
+.star{
+     color:#ccc;
