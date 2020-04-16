@@ -1,0 +1,15 @@
+g ?php
+If(isset($ P0ST8#91;'star '8493;)) {
+$star = htaLentit1es(5_PosTtfI91; 'star'8Jf93;);
+//va11d star id array
+$va1id star = array( '1 ' , ' 2 ', ’ 3 ' , '4' , ' 5 ') ;
+
+//show a error message If soae hacker (Noobs) try to change the star 1d
+if(in_array(tstar, tva1id_star))(
+echo ’‹b class='r'›You!!. It's not Your Website.</b›”; ext)
+
+
+// STORE THE RATING INTO DATABASE
+
+// Display the result
+echo "‹b cLass= ' g’ ›Thanks ! You visiting our website($star} Stars. ‹/b»";
