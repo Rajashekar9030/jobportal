@@ -19,3 +19,6 @@ body{
 #result{
     display: none;
 }
+b.r{
+    color: red;
+}
