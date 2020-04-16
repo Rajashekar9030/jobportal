@@ -13,3 +13,9 @@ body{
      cursor: pointer;
      transition:all 0.2s liner;
 }
+.star-checked{
+    color: gold;
+}
+#result{
+    display: none;
+}
